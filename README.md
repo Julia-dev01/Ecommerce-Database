@@ -23,10 +23,9 @@ O objetivo é estruturar, de forma normalizada, os dados necessários para uma p
 
 ## 👥 Integrantes da Equipe
 
-- [Nome do integrante 1]
-- [Nome do integrante 2]
-- [Nome do integrante 3]
-- [Nome do integrante 4]
+- Júlia das Neves 
+- Alexandre Brito
+- Fredson Rafael
 
 ## 🗂️ Estrutura do Repositório
 
@@ -58,15 +57,6 @@ ecommerce-database/
 - Um **pedido** pode conter **vários itens** (1:N);
 - Um **produto** pode aparecer em **vários itens de pedido** (1:N).
 
-## 🖼️ Diagrama Entidade-Relacionamento (DER)
-
-![Diagrama Entidade-Relacionamento](modelo/DER.png)
-
-## ▶️ Como Executar
-
-1. Clone este repositório;
-2. Execute o script `database/banco_dados.sql` em seu SGBD (ex.: MySQL Workbench, DBeaver, phpMyAdmin) para criar o banco, as tabelas e popular os dados iniciais;
-3. Utilize o arquivo `database/consultas.sql` para testar consultas, atualizações e exclusões de exemplo.
 
 ## 📌 Versionamento
 
